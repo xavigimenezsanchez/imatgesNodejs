@@ -15,4 +15,3 @@ app.listen(process.env.PORT, function() {
     console.log('Server listening on', process.env.PORT);
 });
 
-//http://blog.ragingflame.co.za/2015/2/6/resizing-images-in-nodejs-applications
